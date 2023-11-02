@@ -26,3 +26,4 @@
 # array = [22, 33, 44, 'hi']
 # for i in range(len(array)):
 #     print(array[i])
+'не нужно ничего менять'
