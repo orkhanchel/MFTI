@@ -1,3 +1,0 @@
-# MFTI for Orkhan
-'hello'
-
